@@ -25,3 +25,4 @@ while (true)
 }
 
 Console.WriteLine(string.Join(',', poly));
+//kis kacsa fürdik fekete tóban háp-háp
