@@ -16,7 +16,7 @@ Global
 		{A5E0818C-1041-4CF2-A451-6BE7E06D2654}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5E0818C-1041-4CF2-A451-6BE7E06D2654}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
+	GlobalSection(SolutionPr,jhsd,DVFCwluefgluqoperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
