@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/EarClip/EarClip.csproj": {}
+    "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/gletteles/kiskutya/EarClip.csproj": {}
   },
   "projects": {
-    "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/EarClip/EarClip.csproj": {
+    "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/gletteles/kiskutya/EarClip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/EarClip/EarClip.csproj",
+        "projectUniqueName": "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/gletteles/kiskutya/EarClip.csproj",
         "projectName": "EarClip",
-        "projectPath": "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/EarClip/EarClip.csproj",
+        "projectPath": "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/gletteles/kiskutya/EarClip.csproj",
         "packagesPath": "/Users/thewildestviolet/.nuget/packages/",
-        "outputPath": "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/EarClip/obj/",
+        "outputPath": "/Users/thewildestviolet/Desktop/egyetem/Msc 3. félév (2024)/gletteles/kiskutya/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thewildestviolet/.nuget/NuGet/NuGet.Config"
