@@ -15,7 +15,7 @@ while (true)
     input = Console.ReadLine();
     if (!double.TryParse(input, out double y))
     {
-        break;ir2igwurwirigwr
+        break;
     }
 
     poly.Add(x);
